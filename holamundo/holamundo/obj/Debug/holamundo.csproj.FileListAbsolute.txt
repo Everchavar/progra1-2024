@@ -1,0 +1,7 @@
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\holamundo\holamundo\bin\Debug\holamundo.exe.config
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\holamundo\holamundo\bin\Debug\holamundo.exe
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\holamundo\holamundo\bin\Debug\holamundo.pdb
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\holamundo\holamundo\obj\Debug\holamundo.csproj.AssemblyReference.cache
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\holamundo\holamundo\obj\Debug\holamundo.csproj.CoreCompileInputs.cache
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\holamundo\holamundo\obj\Debug\holamundo.exe
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\holamundo\holamundo\obj\Debug\holamundo.pdb
