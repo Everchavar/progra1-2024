@@ -1,0 +1,7 @@
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\suma-de-enteros\suma-de-enteros\bin\Debug\suma-de-enteros.exe.config
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\suma-de-enteros\suma-de-enteros\bin\Debug\suma-de-enteros.exe
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\suma-de-enteros\suma-de-enteros\bin\Debug\suma-de-enteros.pdb
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\suma-de-enteros\suma-de-enteros\obj\Debug\suma-de-enteros.csproj.AssemblyReference.cache
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\suma-de-enteros\suma-de-enteros\obj\Debug\suma-de-enteros.csproj.CoreCompileInputs.cache
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\suma-de-enteros\suma-de-enteros\obj\Debug\suma-de-enteros.exe
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\suma-de-enteros\suma-de-enteros\obj\Debug\suma-de-enteros.pdb
