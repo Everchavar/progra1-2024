@@ -1,0 +1,6 @@
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\suma-de-numeros-byt\suma-de-numeros-byt\bin\Debug\suma-de-numeros-byt.exe.config
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\suma-de-numeros-byt\suma-de-numeros-byt\bin\Debug\suma-de-numeros-byt.exe
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\suma-de-numeros-byt\suma-de-numeros-byt\bin\Debug\suma-de-numeros-byt.pdb
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\suma-de-numeros-byt\suma-de-numeros-byt\obj\Debug\suma-de-numeros-byt.csproj.CoreCompileInputs.cache
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\suma-de-numeros-byt\suma-de-numeros-byt\obj\Debug\suma-de-numeros-byt.exe
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\suma-de-numeros-byt\suma-de-numeros-byt\obj\Debug\suma-de-numeros-byt.pdb
