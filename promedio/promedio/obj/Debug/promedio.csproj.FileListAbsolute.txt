@@ -1,0 +1,7 @@
+C:\Users\everc\OneDrive\Documentos\proyectos\promedio\promedio\bin\Debug\promedio.exe.config
+C:\Users\everc\OneDrive\Documentos\proyectos\promedio\promedio\bin\Debug\promedio.exe
+C:\Users\everc\OneDrive\Documentos\proyectos\promedio\promedio\bin\Debug\promedio.pdb
+C:\Users\everc\OneDrive\Documentos\proyectos\promedio\promedio\obj\Debug\promedio.csproj.AssemblyReference.cache
+C:\Users\everc\OneDrive\Documentos\proyectos\promedio\promedio\obj\Debug\promedio.csproj.CoreCompileInputs.cache
+C:\Users\everc\OneDrive\Documentos\proyectos\promedio\promedio\obj\Debug\promedio.exe
+C:\Users\everc\OneDrive\Documentos\proyectos\promedio\promedio\obj\Debug\promedio.pdb
