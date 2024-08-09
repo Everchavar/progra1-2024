@@ -1,0 +1,7 @@
+C:\Users\everc\OneDrive\Documentos\proyectos\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\everc\OneDrive\Documentos\proyectos\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\everc\OneDrive\Documentos\proyectos\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\everc\OneDrive\Documentos\proyectos\Menu\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\everc\OneDrive\Documentos\proyectos\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\everc\OneDrive\Documentos\proyectos\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\everc\OneDrive\Documentos\proyectos\Menu\Menu\obj\Debug\Menu.pdb

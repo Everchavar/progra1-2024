@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9029CFDD-4121-44DA-B321-F1F7841A9B20}</ProjectGuid>
+    <ProjectGuid>{CBCD8B34-2BFE-4D61-9D37-0E442D682DA2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>estructura_de_control</RootNamespace>
-    <AssemblyName>estructura-de-control</AssemblyName>
+    <RootNamespace>Menu</RootNamespace>
+    <AssemblyName>Menu</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
