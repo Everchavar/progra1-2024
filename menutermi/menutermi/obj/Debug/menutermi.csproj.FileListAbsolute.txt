@@ -1,0 +1,7 @@
+C:\Users\everc\OneDrive\Documentos\proyectos\menutermi\menutermi\obj\Debug\menutermi.csproj.AssemblyReference.cache
+C:\Users\everc\OneDrive\Documentos\proyectos\menutermi\menutermi\obj\Debug\menutermi.csproj.CoreCompileInputs.cache
+C:\Users\everc\OneDrive\Documentos\proyectos\menutermi\menutermi\bin\Debug\menutermi.exe.config
+C:\Users\everc\OneDrive\Documentos\proyectos\menutermi\menutermi\bin\Debug\menutermi.exe
+C:\Users\everc\OneDrive\Documentos\proyectos\menutermi\menutermi\bin\Debug\menutermi.pdb
+C:\Users\everc\OneDrive\Documentos\proyectos\menutermi\menutermi\obj\Debug\menutermi.exe
+C:\Users\everc\OneDrive\Documentos\proyectos\menutermi\menutermi\obj\Debug\menutermi.pdb
