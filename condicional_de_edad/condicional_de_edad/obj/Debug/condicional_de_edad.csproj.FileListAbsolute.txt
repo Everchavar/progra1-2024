@@ -1,0 +1,7 @@
+C:\Users\everc\OneDrive\Documentos\proyectos\condicional_de_edad\condicional_de_edad\bin\Debug\condicional_de_edad.exe.config
+C:\Users\everc\OneDrive\Documentos\proyectos\condicional_de_edad\condicional_de_edad\bin\Debug\condicional_de_edad.exe
+C:\Users\everc\OneDrive\Documentos\proyectos\condicional_de_edad\condicional_de_edad\bin\Debug\condicional_de_edad.pdb
+C:\Users\everc\OneDrive\Documentos\proyectos\condicional_de_edad\condicional_de_edad\obj\Debug\condicional_de_edad.csproj.AssemblyReference.cache
+C:\Users\everc\OneDrive\Documentos\proyectos\condicional_de_edad\condicional_de_edad\obj\Debug\condicional_de_edad.csproj.CoreCompileInputs.cache
+C:\Users\everc\OneDrive\Documentos\proyectos\condicional_de_edad\condicional_de_edad\obj\Debug\condicional_de_edad.exe
+C:\Users\everc\OneDrive\Documentos\proyectos\condicional_de_edad\condicional_de_edad\obj\Debug\condicional_de_edad.pdb
