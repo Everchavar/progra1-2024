@@ -1,0 +1,7 @@
+C:\Users\everc\OneDrive\Documentos\proyectos\calculo_de_sueldo\calculo_de_sueldo\obj\Debug\calculo_de_sueldo.csproj.AssemblyReference.cache
+C:\Users\everc\OneDrive\Documentos\proyectos\calculo_de_sueldo\calculo_de_sueldo\obj\Debug\calculo_de_sueldo.csproj.CoreCompileInputs.cache
+C:\Users\everc\OneDrive\Documentos\proyectos\calculo_de_sueldo\calculo_de_sueldo\bin\Debug\calculo_de_sueldo.exe.config
+C:\Users\everc\OneDrive\Documentos\proyectos\calculo_de_sueldo\calculo_de_sueldo\bin\Debug\calculo_de_sueldo.exe
+C:\Users\everc\OneDrive\Documentos\proyectos\calculo_de_sueldo\calculo_de_sueldo\bin\Debug\calculo_de_sueldo.pdb
+C:\Users\everc\OneDrive\Documentos\proyectos\calculo_de_sueldo\calculo_de_sueldo\obj\Debug\calculo_de_sueldo.exe
+C:\Users\everc\OneDrive\Documentos\proyectos\calculo_de_sueldo\calculo_de_sueldo\obj\Debug\calculo_de_sueldo.pdb
