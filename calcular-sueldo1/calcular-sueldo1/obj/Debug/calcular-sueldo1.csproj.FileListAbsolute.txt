@@ -1,0 +1,2 @@
+C:\Users\everc\OneDrive\Documentos\proyectos\calcular-sueldo1\calcular-sueldo1\obj\Debug\calcular-sueldo1.csproj.AssemblyReference.cache
+C:\Users\everc\OneDrive\Documentos\proyectos\calcular-sueldo1\calcular-sueldo1\obj\Debug\calcular-sueldo1.csproj.CoreCompileInputs.cache
