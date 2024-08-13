@@ -1,7 +1,0 @@
-C:\Users\everc\OneDrive\Documentos\proyectos\ever\serie-de-numeros\serie-de-numeros\bin\Debug\serie-de-numeros.exe.config
-C:\Users\everc\OneDrive\Documentos\proyectos\ever\serie-de-numeros\serie-de-numeros\bin\Debug\serie-de-numeros.exe
-C:\Users\everc\OneDrive\Documentos\proyectos\ever\serie-de-numeros\serie-de-numeros\bin\Debug\serie-de-numeros.pdb
-C:\Users\everc\OneDrive\Documentos\proyectos\ever\serie-de-numeros\serie-de-numeros\obj\Debug\serie-de-numeros.csproj.AssemblyReference.cache
-C:\Users\everc\OneDrive\Documentos\proyectos\ever\serie-de-numeros\serie-de-numeros\obj\Debug\serie-de-numeros.csproj.CoreCompileInputs.cache
-C:\Users\everc\OneDrive\Documentos\proyectos\ever\serie-de-numeros\serie-de-numeros\obj\Debug\serie-de-numeros.exe
-C:\Users\everc\OneDrive\Documentos\proyectos\ever\serie-de-numeros\serie-de-numeros\obj\Debug\serie-de-numeros.pdb
