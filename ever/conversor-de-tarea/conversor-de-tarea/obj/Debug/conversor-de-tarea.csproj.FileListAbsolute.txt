@@ -1,0 +1,7 @@
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\conversor-de-tarea\conversor-de-tarea\bin\Debug\conversor-de-tarea.exe.config
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\conversor-de-tarea\conversor-de-tarea\bin\Debug\conversor-de-tarea.exe
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\conversor-de-tarea\conversor-de-tarea\bin\Debug\conversor-de-tarea.pdb
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\conversor-de-tarea\conversor-de-tarea\obj\Debug\conversor-de-tarea.csproj.AssemblyReference.cache
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\conversor-de-tarea\conversor-de-tarea\obj\Debug\conversor-de-tarea.csproj.CoreCompileInputs.cache
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\conversor-de-tarea\conversor-de-tarea\obj\Debug\conversor-de-tarea.exe
+C:\Users\everc\OneDrive\Documentos\proyectos\ever\conversor-de-tarea\conversor-de-tarea\obj\Debug\conversor-de-tarea.pdb
