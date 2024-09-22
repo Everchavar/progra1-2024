@@ -1,0 +1,7 @@
+C:\Users\everc\OneDrive\Documentos\proyectos\uso-de-funciones\uso-de-funciones\bin\Debug\uso-de-funciones.exe.config
+C:\Users\everc\OneDrive\Documentos\proyectos\uso-de-funciones\uso-de-funciones\bin\Debug\uso-de-funciones.exe
+C:\Users\everc\OneDrive\Documentos\proyectos\uso-de-funciones\uso-de-funciones\bin\Debug\uso-de-funciones.pdb
+C:\Users\everc\OneDrive\Documentos\proyectos\uso-de-funciones\uso-de-funciones\obj\Debug\uso-de-funciones.csproj.AssemblyReference.cache
+C:\Users\everc\OneDrive\Documentos\proyectos\uso-de-funciones\uso-de-funciones\obj\Debug\uso-de-funciones.csproj.CoreCompileInputs.cache
+C:\Users\everc\OneDrive\Documentos\proyectos\uso-de-funciones\uso-de-funciones\obj\Debug\uso-de-funciones.exe
+C:\Users\everc\OneDrive\Documentos\proyectos\uso-de-funciones\uso-de-funciones\obj\Debug\uso-de-funciones.pdb
