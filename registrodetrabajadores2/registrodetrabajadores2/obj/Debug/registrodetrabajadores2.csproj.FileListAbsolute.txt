@@ -1,0 +1,14 @@
+C:\Users\everc\OneDrive\Documentos\registrodetrabajadores2\registrodetrabajadores2\obj\Debug\registrodetrabajadores2.csproj.AssemblyReference.cache
+C:\Users\everc\OneDrive\Documentos\registrodetrabajadores2\registrodetrabajadores2\obj\Debug\registrodetrabajadores2.Form1.resources
+C:\Users\everc\OneDrive\Documentos\registrodetrabajadores2\registrodetrabajadores2\obj\Debug\registrodetrabajadores2.Properties.Resources.resources
+C:\Users\everc\OneDrive\Documentos\registrodetrabajadores2\registrodetrabajadores2\obj\Debug\registrodetrabajadores2.csproj.GenerateResource.cache
+C:\Users\everc\OneDrive\Documentos\registrodetrabajadores2\registrodetrabajadores2\obj\Debug\registrodetrabajadores2.csproj.CoreCompileInputs.cache
+C:\Users\everc\OneDrive\Documentos\registrodetrabajadores2\registrodetrabajadores2\bin\Debug\empresas1.mdf
+C:\Users\everc\OneDrive\Documentos\registrodetrabajadores2\registrodetrabajadores2\bin\Debug\empresas1_log.ldf
+C:\Users\everc\OneDrive\Documentos\registrodetrabajadores2\registrodetrabajadores2\bin\Debug\registrodetrabajadores2.exe.config
+C:\Users\everc\OneDrive\Documentos\registrodetrabajadores2\registrodetrabajadores2\bin\Debug\registrodetrabajadores2.exe
+C:\Users\everc\OneDrive\Documentos\registrodetrabajadores2\registrodetrabajadores2\bin\Debug\registrodetrabajadores2.pdb
+C:\Users\everc\OneDrive\Documentos\registrodetrabajadores2\registrodetrabajadores2\obj\Debug\registrodetrabajadores2.exe
+C:\Users\everc\OneDrive\Documentos\registrodetrabajadores2\registrodetrabajadores2\obj\Debug\registrodetrabajadores2.pdb
+C:\Users\everc\OneDrive\Documentos\registrodetrabajadores2\registrodetrabajadores2\obj\Debug\registrodetrabajadores2.Frm_usuario.resources
+C:\Users\everc\OneDrive\Documentos\registrodetrabajadores2\registrodetrabajadores2\obj\Debug\registrodetrabajadores2.Login.resources
